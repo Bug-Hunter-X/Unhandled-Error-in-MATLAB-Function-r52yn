@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MATLAB programming: improper error handling that can lead to cryptic error messages and difficulties in debugging. The `bug.m` file contains a function with a potential error. The `bugSolution.m` demonstrates how to handle errors effectively, using try-catch blocks for better control and informative error messages.
